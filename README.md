@@ -1,4 +1,4 @@
-# Zeusun-Efsanesi / Legend Of Zeus
+# Zeus'un Efsanesi / Legend Of Zeus
 
 TR : 
 Oyun hakkında :
