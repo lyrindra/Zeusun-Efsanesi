@@ -1,0 +1,23 @@
+body{
+  width: 98%;
+  height: 100%;
+  background: url("pexels-markus-spiske-177598.jpg") top center;
+  background-size: cover;
+}
+
+h3, h4{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: oblique;
+  color: rgb(29, 29, 29);
+}
+
+h3{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+h4{
+  display: flex;
+  justify-content: center;
+}
