@@ -2,7 +2,7 @@
 
 **TR
 Oyun hakkında :
-Bu oyunda bazı kararlar vererek sonunuzu getirebilir veya doğru kararlar vererek devam edebilirsiniz, Mitolojik hikayeleri seviyorsanız bu oyun tam olarak size göre!**
+Bu oyunda bazı kararlar vererek sonunuzu getirebilir veya doğru kararlar vererek devam edebilirsiniz, Mitolojik hikayeleri seviyorsanız bu oyun tam size göre!**
 
 
 **EN :
